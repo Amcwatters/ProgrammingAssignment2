@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions will create an inverse matrix into cache and 
+## then run solve on it
+
 
 ## This function will create an inverse matrix
 
